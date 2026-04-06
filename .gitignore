@@ -1,0 +1,13 @@
+# Diagnostic output sessions
+AV_Diagnostics/
+ 
+# macOS system files
+.DS_Store
+._*
+ 
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
