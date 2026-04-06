@@ -50,7 +50,7 @@ The script creates a folder at `~/Desktop/AV_Diagnostics/YYYY-MM-DD_HH-MM-SS/` a
 
 ## Tested with
 
-- macOS 26.4 (Sequoia) on Apple M2 MacBook Air
+- macOS 26.4 on Apple M2 MacBook Air
 - OBS Studio 32.1.0
 - Microsoft Teams 26072.605.4546.510
 - Rogue Amoeba Loopback 2.4.8
